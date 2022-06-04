@@ -5,5 +5,5 @@ Build with meson and install it as library onto the system.
 Then pplugger's header files can be imported with:
 
 ```
-#include <pplugger/FILES_TO_INCLUDE>
+#include <pplugger/pplugger>
 ```
